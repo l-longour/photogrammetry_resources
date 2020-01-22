@@ -7,6 +7,12 @@
 * [Production photogrammétrique rapprochée](http://cours-fad-public.ensg.eu/course/view.php?id=104), (2017) Ecole nationale des sciences géographiques
 * [Reconstruction 3D photogrammétrique avec le logiciel micmac](http://cours-fad-public.ensg.eu/course/view.php?id=130), (2017) Ecole nationale des sciences géographiques
 
+## Submissions / Reports
+* [Photogrammétrie multispectrale](http://dias.ensg.eu/Terrain/Data/2019/PhotogrammetrieMultispectrale/PhotogrammetrieMultispectrale_Rapport.pdf), (2019) Ecole nationale des sciences géographiques
+* [Parangonnage de suites photogrammétrique](http://dias.ensg.eu/Terrain/Data/2019/Parangonnage/ParangonnageSuitesPhotogrammetriques_Rapport.pdf), (2019) Ecole nationale des sciences géographiques
+
+## Books
+
 ## Softwares documentations
 
 * [Meshroom Manual](https://docs.google.com/document/d/17HYtYS1tvx053k3_nO6Z2GnP2R3cXMlGMN-1WIe3kJE/edit?usp=sharing), (2019) [Natowi](https://github.com/natowi)
